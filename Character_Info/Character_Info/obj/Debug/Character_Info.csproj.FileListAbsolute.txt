@@ -1,0 +1,29 @@
+C:\Users\Karl Olsen\Desktop\Blizzard API 2\Character_Info\Character_Info\bin\Debug\Character_Info.exe.config
+C:\Users\Karl Olsen\Desktop\Blizzard API 2\Character_Info\Character_Info\bin\Debug\Character_Info.exe
+C:\Users\Karl Olsen\Desktop\Blizzard API 2\Character_Info\Character_Info\bin\Debug\Character_Info.pdb
+C:\Users\Karl Olsen\Desktop\Blizzard API 2\Character_Info\Character_Info\obj\Debug\Character_Info.csprojResolveAssemblyReference.cache
+C:\Users\Karl Olsen\Desktop\Blizzard API 2\Character_Info\Character_Info\obj\Debug\Character_Info.exe
+C:\Users\Karl Olsen\Desktop\Blizzard API 2\Character_Info\Character_Info\obj\Debug\Character_Info.pdb
+C:\Users\Karl Olsen\Desktop\WoW_Talents\Character_Info\Character_Info\bin\Debug\Character_Info.exe.config
+C:\Users\Karl Olsen\Desktop\WoW_Talents\Character_Info\Character_Info\obj\Debug\Character_Info.exe
+C:\Users\Karl Olsen\Desktop\WoW_Talents\Character_Info\Character_Info\obj\Debug\Character_Info.pdb
+C:\Users\Karl Olsen\Desktop\WoW_Talents\Character_Info\Character_Info\bin\Debug\Character_Info.exe
+C:\Users\Karl Olsen\Desktop\WoW_Talents\Character_Info\Character_Info\bin\Debug\Character_Info.pdb
+C:\Users\Karl Olsen\Desktop\WoW_Talents\Character_Info\Character_Info\obj\Debug\Character_Info.csprojResolveAssemblyReference.cache
+C:\Users\Karl Olsen\Desktop\WoW_Talents_Legion\Character_Info\Character_Info\bin\Debug\Character_Info.exe.config
+C:\Users\Karl Olsen\Desktop\WoW_Talents_Legion\Character_Info\Character_Info\obj\Debug\Character_Info.exe
+C:\Users\Karl Olsen\Desktop\WoW_Talents_Legion\Character_Info\Character_Info\obj\Debug\Character_Info.pdb
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_Legion\Character_Info\Character_Info\bin\Debug\Character_Info.exe.config
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_Legion\Character_Info\Character_Info\obj\Debug\Character_Info.exe
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_Legion\Character_Info\Character_Info\obj\Debug\Character_Info.pdb
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_Legion\Character_Info\Character_Info\bin\Debug\Character_Info.exe
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_Legion\Character_Info\Character_Info\bin\Debug\Character_Info.pdb
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_Legion\Character_Info\Character_Info\obj\Debug\Character_Info.csprojAssemblyReference.cache
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_Legion\Character_Info\Character_Info\obj\Debug\Character_Info.csproj.CoreCompileInputs.cache
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_BfA\Character_Info\Character_Info\bin\Debug\Character_Info.exe.config
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_BfA\Character_Info\Character_Info\bin\Debug\Character_Info.exe
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_BfA\Character_Info\Character_Info\bin\Debug\Character_Info.pdb
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_BfA\Character_Info\Character_Info\obj\Debug\Character_Info.csprojAssemblyReference.cache
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_BfA\Character_Info\Character_Info\obj\Debug\Character_Info.csproj.CoreCompileInputs.cache
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_BfA\Character_Info\Character_Info\obj\Debug\Character_Info.exe
+C:\Users\Karl Olsen\Desktop\General Programming\WoW_Talents_BfA\Character_Info\Character_Info\obj\Debug\Character_Info.pdb
