@@ -4,7 +4,6 @@
  
 WRITTEN BY KARL OLSEN 
 droodicus@gmail.com
-twitter.com/Droodicus
 github.com/drood1
 */
 
